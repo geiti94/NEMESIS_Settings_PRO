@@ -1,0 +1,7 @@
+#Thu Feb 09 21:00:21 CET 2017
+base.0=C\:\\Users\\Gaetano\\Desktop\\Nemesis_Settings_V2.1-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_030d0ecc0ade7a5d26233dda7381699e4fd8252f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Gaetano\\Desktop\\Nemesis_Settings_V2.1-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9361b64e310f11aac0ebcde48a59c48dd15b9472\\classes.dex
+base.1=C\:\\Users\\Gaetano\\Desktop\\Nemesis_Settings_V2.1-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9361b64e310f11aac0ebcde48a59c48dd15b9472
+file.0=C\:\\Users\\Gaetano\\Desktop\\Nemesis_Settings_V2.1-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_030d0ecc0ade7a5d26233dda7381699e4fd8252f\\classes.dex
